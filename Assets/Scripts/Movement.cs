@@ -82,8 +82,8 @@ public class Movement : MonoBehaviour {
 		if (Input.GetKey (KeyCode.V)) {
 			if (positionState == 1) {
 				
-				float currentx = sword.transform.position.x;
-				transform.position = new Vector3 (Mathf.Lerp (0, 3, Time.time), 0, 0);
+
+				//sword.transform.localPosition = Mathf.Lerp(sword.transform.localPosition, sword.transform.localPosition + new Vector3 (2, 0, 0), speed*Time.deltaTime);
 			}
 			if (positionState == 2) {
 			}
