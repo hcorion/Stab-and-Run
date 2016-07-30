@@ -17,8 +17,16 @@ public class Movement : MonoBehaviour {
 	public GameObject raycastPoint;
 	public float jumpForce = 1f;
 	public int positionState = 0;
+	public GameObject sword;
+	private SpriteRenderer sprite;
+	public Sprite leftsprite;
+	public Sprite rightsprite;
+	public bool p = true;
+	public Vector3 swordpos;
 	void Start () {
+		sprite = sword.GetComponent<SpriteRenderer>();
 		player = gameObject.GetComponent<Rigidbody2D> ();
+		swordpos = sword.transform.localPosition;
 	}
 
 	// Update is called once per frame
@@ -57,15 +65,28 @@ public class Movement : MonoBehaviour {
 		}
 		if(Input.GetKey(rightMovementKey)){
 			positionState = 1;
+			sprite.sprite = rightsprite;
+			sword.transform.localPosition = swordpos + new Vector3(0.5f, 0, 0);
 			player.transform.position += Vector3.right * speed * Time.deltaTime;
 		}
 		if(Input.GetKey(leftMovementKey)){
 			positionState = 2;
+			sprite.sprite = leftsprite; 
+			sword.transform.localPosition = swordpos + new Vector3(-0.5f, 0, 0);
 			player.transform.position += Vector3.left * speed * Time.deltaTime;
 		}
 		else 
 		{
 			positionState = 0;
+		}
+		if (Input.GetKey (KeyCode.V)) {
+			if (positionState == 1) {
+				
+				float currentx = sword.transform.position.x;
+				transform.position = new Vector3 (Mathf.Lerp (0, 3, Time.time), 0, 0);
+			}
+			if (positionState == 2) {
+			}
 		}
 }
 }
