@@ -16,6 +16,7 @@ public class Movement : MonoBehaviour {
 	private float jumpTime;
 	public GameObject raycastPoint;
 	public float jumpForce = 1f;
+	public int positionState = 0;
 	void Start () {
 		player = gameObject.GetComponent<Rigidbody2D> ();
 	}
@@ -55,10 +56,16 @@ public class Movement : MonoBehaviour {
 			//JumpTime  = MaxJumpTime;
 		}
 		if(Input.GetKey(rightMovementKey)){
+			positionState = 1;
 			player.transform.position += Vector3.right * speed * Time.deltaTime;
 		}
 		if(Input.GetKey(leftMovementKey)){
+			positionState = 2;
 			player.transform.position += Vector3.left * speed * Time.deltaTime;
+		}
+		else 
+		{
+			positionState = 0;
 		}
 }
 }
