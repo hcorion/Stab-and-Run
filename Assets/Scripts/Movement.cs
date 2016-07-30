@@ -22,10 +22,18 @@ public class Movement : MonoBehaviour {
 	public Sprite right;
 
 	public Sprite mainSprite;
+	private SpriteRenderer playerSprite;
+	public GameObject sword;
 	private SpriteRenderer sprite;
+	public Sprite leftsprite;
+	public Sprite rightsprite;
+	public bool p = true;
+	public Vector3 swordpos;
 	void Start () {
+		sprite = sword.GetComponent<SpriteRenderer>();
 		player = gameObject.GetComponent<Rigidbody2D> ();
-		sprite = gameObject.GetComponent<SpriteRenderer>();
+		playerSprite = gameObject.GetComponent<SpriteRenderer>();
+		swordpos = sword.transform.localPosition;
 	}
 
 	// Update is called once per frame
@@ -51,10 +59,8 @@ public class Movement : MonoBehaviour {
 				canJump = true;
 				jumpTime = 0;
 			}
-		{
+		}
 
-		}
-		}
 		if (Input.GetKey (JumpMovementKey) && canJump == true)
 		{
 			player.AddForce (new Vector2 (0, jumpForce), ForceMode2D.Impulse);
@@ -64,18 +70,32 @@ public class Movement : MonoBehaviour {
 		}
 		if(Input.GetKey(rightMovementKey)){
 			positionState = 1;
-			sprite.sprite = right;
+			playerSprite.sprite = right;
+			sprite.sprite = rightsprite;
+			sword.transform.localPosition = swordpos + new Vector3(0.5f, 0, 0);
 			player.transform.position += Vector3.right * speed * Time.deltaTime;
 		}
 		else if(Input.GetKey(leftMovementKey)){
 			positionState = 2;
-			sprite.sprite = left;
+			playerSprite.sprite = left;
+			sprite.sprite = leftsprite; 
+			sword.transform.localPosition = swordpos + new Vector3(-0.5f, 0, 0);
 			player.transform.position += Vector3.left * speed * Time.deltaTime;
 		}
 		else 
 		{
 			positionState = 0;
-			sprite.sprite = mainSprite;
+			playerSprite.sprite = mainSprite;
+		}
+		if (Input.GetKey (KeyCode.V)) 
+		{
+			if (positionState == 1) {
+				
+
+				//sword.transform.localPosition = Mathf.Lerp(sword.transform.localPosition, sword.transform.localPosition + new Vector3 (2, 0, 0), speed*Time.deltaTime);
+			}
+			if (positionState == 2) {
+			}
 		}
 	}
 }

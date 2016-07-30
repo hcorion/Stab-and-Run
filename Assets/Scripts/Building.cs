@@ -6,7 +6,7 @@ public class Building : MonoBehaviour {
 	public float counter = 0;
 	// Use this for initialization
 	void Start () {
-		for (int i = 0; i < 10; i++) {
+		for (int i = 0; i < 5; i++) {
 			Instantiate (tile, new Vector2 (counter, 0), Quaternion.identity);
 			counter += 0.7f;
 		}
