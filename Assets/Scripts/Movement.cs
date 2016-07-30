@@ -17,8 +17,15 @@ public class Movement : MonoBehaviour {
 	public GameObject raycastPoint;
 	public float jumpForce = 1f;
 	public int positionState = 0;
+
+	public Sprite left;
+	public Sprite right;
+
+	public Sprite mainSprite;
+	private SpriteRenderer sprite;
 	void Start () {
 		player = gameObject.GetComponent<Rigidbody2D> ();
+		sprite = gameObject.GetComponent<SpriteRenderer>();
 	}
 
 	// Update is called once per frame
@@ -57,15 +64,18 @@ public class Movement : MonoBehaviour {
 		}
 		if(Input.GetKey(rightMovementKey)){
 			positionState = 1;
+			sprite.sprite = right;
 			player.transform.position += Vector3.right * speed * Time.deltaTime;
 		}
-		if(Input.GetKey(leftMovementKey)){
+		else if(Input.GetKey(leftMovementKey)){
 			positionState = 2;
+			sprite.sprite = left;
 			player.transform.position += Vector3.left * speed * Time.deltaTime;
 		}
 		else 
 		{
 			positionState = 0;
+			sprite.sprite = mainSprite;
 		}
-}
+	}
 }

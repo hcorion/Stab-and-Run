@@ -1,0 +1,1473 @@
+fileFormatVersion: 2
+guid: efcbfad1ff8b544f4aa13694fa014ced
+timeCreated: 1469908541
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: VXCharacterscopy-1_0
+    21300002: VXCharacterscopy-1_1
+    21300004: VXCharacterscopy-1_2
+    21300006: VXCharacterscopy-1_3
+    21300008: VXCharacterscopy-1_4
+    21300010: VXCharacterscopy-1_5
+    21300012: VXCharacterscopy-1_6
+    21300014: VXCharacterscopy-1_7
+    21300016: VXCharacterscopy-1_8
+    21300018: VXCharacterscopy-1_9
+    21300020: VXCharacterscopy-1_10
+    21300022: VXCharacterscopy-1_11
+    21300024: VXCharacterscopy-1_12
+    21300026: VXCharacterscopy-1_13
+    21300028: VXCharacterscopy-1_14
+    21300030: VXCharacterscopy-1_15
+    21300032: VXCharacterscopy-1_16
+    21300034: VXCharacterscopy-1_17
+    21300036: VXCharacterscopy-1_18
+    21300038: VXCharacterscopy-1_19
+    21300040: VXCharacterscopy-1_20
+    21300042: VXCharacterscopy-1_21
+    21300044: VXCharacterscopy-1_22
+    21300046: VXCharacterscopy-1_23
+    21300048: VXCharacterscopy-1_24
+    21300050: VXCharacterscopy-1_25
+    21300052: VXCharacterscopy-1_26
+    21300054: VXCharacterscopy-1_27
+    21300056: VXCharacterscopy-1_28
+    21300058: VXCharacterscopy-1_29
+    21300060: VXCharacterscopy-1_30
+    21300062: VXCharacterscopy-1_31
+    21300064: VXCharacterscopy-1_32
+    21300066: VXCharacterscopy-1_33
+    21300068: VXCharacterscopy-1_34
+    21300070: VXCharacterscopy-1_35
+    21300072: VXCharacterscopy-1_36
+    21300074: VXCharacterscopy-1_37
+    21300076: VXCharacterscopy-1_38
+    21300078: VXCharacterscopy-1_39
+    21300080: VXCharacterscopy-1_40
+    21300082: VXCharacterscopy-1_41
+    21300084: VXCharacterscopy-1_42
+    21300086: VXCharacterscopy-1_43
+    21300088: VXCharacterscopy-1_44
+    21300090: VXCharacterscopy-1_45
+    21300092: VXCharacterscopy-1_46
+    21300094: VXCharacterscopy-1_47
+    21300096: VXCharacterscopy-1_48
+    21300098: VXCharacterscopy-1_49
+    21300100: VXCharacterscopy-1_50
+    21300102: VXCharacterscopy-1_51
+    21300104: VXCharacterscopy-1_52
+    21300106: VXCharacterscopy-1_53
+    21300108: VXCharacterscopy-1_54
+    21300110: VXCharacterscopy-1_55
+    21300112: VXCharacterscopy-1_56
+    21300114: VXCharacterscopy-1_57
+    21300116: VXCharacterscopy-1_58
+    21300118: VXCharacterscopy-1_59
+    21300120: VXCharacterscopy-1_60
+    21300122: VXCharacterscopy-1_61
+    21300124: VXCharacterscopy-1_62
+    21300126: VXCharacterscopy-1_63
+    21300128: VXCharacterscopy-1_64
+    21300130: VXCharacterscopy-1_65
+    21300132: VXCharacterscopy-1_66
+    21300134: VXCharacterscopy-1_67
+    21300136: VXCharacterscopy-1_68
+    21300138: VXCharacterscopy-1_69
+    21300140: VXCharacterscopy-1_70
+    21300142: VXCharacterscopy-1_71
+    21300144: VXCharacterscopy-1_72
+    21300146: VXCharacterscopy-1_73
+    21300148: VXCharacterscopy-1_74
+    21300150: VXCharacterscopy-1_75
+    21300152: VXCharacterscopy-1_76
+    21300154: VXCharacterscopy-1_77
+    21300156: VXCharacterscopy-1_78
+    21300158: VXCharacterscopy-1_79
+    21300160: VXCharacterscopy-1_80
+    21300162: VXCharacterscopy-1_81
+    21300164: VXCharacterscopy-1_82
+    21300166: VXCharacterscopy-1_83
+    21300168: VXCharacterscopy-1_84
+    21300170: VXCharacterscopy-1_85
+    21300172: VXCharacterscopy-1_86
+    21300174: VXCharacterscopy-1_87
+    21300176: VXCharacterscopy-1_88
+    21300178: VXCharacterscopy-1_89
+    21300180: VXCharacterscopy-1_90
+    21300182: VXCharacterscopy-1_91
+    21300184: VXCharacterscopy-1_92
+    21300186: VXCharacterscopy-1_93
+    21300188: VXCharacterscopy-1_94
+    21300190: VXCharacterscopy-1_95
+    21300192: VXCharacterscopy-1_96
+    21300194: VXCharacterscopy-1_97
+    21300196: VXCharacterscopy-1_98
+    21300198: VXCharacterscopy-1_99
+    21300200: VXCharacterscopy-1_100
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 245
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 246
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 245
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 245
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 246
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 245
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 245
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 246
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 245
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 245
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 246
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_11
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 245
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 210
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 211
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 210
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 210
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 211
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 210
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 210
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 211
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 210
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_21
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 210
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_22
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 211
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_23
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 210
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 175
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 176
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 175
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 175
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_28
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 176
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_29
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 175
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_30
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 175
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_31
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 176
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_32
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 175
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_33
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 175
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_34
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 176
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_35
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 175
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 140
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 141
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_38
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 140
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_39
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 140
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_40
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 141
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_41
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 140
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_42
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 140
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_43
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 141
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_44
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 140
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_45
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 140
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_46
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 141
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_47
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 140
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 105
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_49
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 106
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 105
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 105
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_52
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 106
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 105
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_54
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 100
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_55
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 100
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_56
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 100
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_57
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 100
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_58
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 97
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_59
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 100
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_60
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 100
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_61
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 100
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_62
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 100
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_63
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 100
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_64
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 100
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 70
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_66
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 71
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_67
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 70
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_68
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 70
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_69
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 71
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_70
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 70
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_71
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 42
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_72
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 41
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_73
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 35
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_74
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_75
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 35
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_76
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 35
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_77
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 36
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_78
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 35
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_79
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 58
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_80
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 58
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_81
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 58
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_82
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_83
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_84
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_85
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_86
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_87
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_89
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 16
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_90
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 16
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_91
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 16
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_92
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 16
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_93
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 16
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_94
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 16
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_95
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 16
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_96
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 16
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_97
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 16
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_98
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 16
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_99
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 16
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VXCharacterscopy-1_100
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 16
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
