@@ -10,6 +10,7 @@ public class Movement : MonoBehaviour {
 	public KeyCode leftMovementKey = KeyCode.A;
 	public KeyCode rightMovementKey = KeyCode.D;
 	public KeyCode JumpMovementKey = KeyCode.W;
+	public KeyCode attackMovementKey = KeyCode.V;
 	private float JumpTime = 0f;
 	private bool canJump = true;
 	private Rigidbody2D player;
@@ -71,30 +72,36 @@ public class Movement : MonoBehaviour {
 		if(Input.GetKey(rightMovementKey)){
 			positionState = 1;
 			playerSprite.sprite = right;
-			sprite.sprite = rightsprite;
-			sword.transform.localPosition = swordpos + new Vector3(0.5f, 0, 0);
+			//sprite.sprite = rightsprite;
+			sword.transform.rotation = Quaternion.EulerAngles(0, 0, 0);
+			sword.transform.localPosition = swordpos + new Vector3(0.1f, 0, 0);
 			player.transform.position += Vector3.right * speed * Time.deltaTime;
+			sword.SetActive(true);
 		}
 		else if(Input.GetKey(leftMovementKey)){
 			positionState = 2;
 			playerSprite.sprite = left;
-			sprite.sprite = leftsprite; 
-			sword.transform.localPosition = swordpos + new Vector3(-0.5f, 0, 0);
+			//sprite.sprite = leftsprite; 
+			sword.transform.eulerAngles = new Vector3(0, 0, 180);
+			sword.transform.localPosition = swordpos + new Vector3(-0.1f, 0, 0);
 			player.transform.position += Vector3.left * speed * Time.deltaTime;
+			sword.SetActive(true);
 		}
 		else 
 		{
 			positionState = 0;
 			playerSprite.sprite = mainSprite;
+			sword.SetActive(false);
 		}
-		if (Input.GetKey (KeyCode.V)) 
+		if (Input.GetKey (attackMovementKey)) 
 		{
 			if (positionState == 1) {
-				
-
-				//sword.transform.localPosition = Mathf.Lerp(sword.transform.localPosition, sword.transform.localPosition + new Vector3 (2, 0, 0), speed*Time.deltaTime);
+				//sword.SetActive(true);
+				sword.transform.localPosition += new Vector3(Time.deltaTime * 7, 0, 0);
 			}
 			if (positionState == 2) {
+				
+				sword.transform.localPosition -= new Vector3(Time.deltaTime * 7, 0, 0);
 			}
 		}
 	}
